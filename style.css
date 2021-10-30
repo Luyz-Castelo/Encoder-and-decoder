@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+  height: 500px;
+}
+
+.title {
+  font-size: 2em;
+  color: white;
+  margin: 0 auto;
+}
+
+.key-used {
+  width: 50%;
+  display: inline;
+}
